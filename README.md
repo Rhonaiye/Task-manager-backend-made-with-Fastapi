@@ -118,7 +118,6 @@ Authorization: Bearer <JWT_TOKEN>
 {
   "title": "Buy groceries",
   "description": "Get milk, eggs, and bread",
-  "complete": false
 }
 ```
 
