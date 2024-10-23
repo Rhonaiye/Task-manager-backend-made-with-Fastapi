@@ -10,6 +10,10 @@ app = FastAPI()
 
 origins = [
     "http://localhost:5173",  # Vite dev server
+    "task-manager-ten-zeta.vercel.app" , #production site
+    "task-manager-git-main-rhonaiyes-projects.vercel.app", #production site
+    "task-manager-pvlbw8l9x-rhonaiyes-projects.vercel.app", #production site
+
 ]
 
 
